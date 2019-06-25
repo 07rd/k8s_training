@@ -1,0 +1,243 @@
+2019/06/25 10:09:31 Starting overwatch
+2019/06/25 10:09:31 Using in-cluster config to connect to apiserver
+2019/06/25 10:09:31 Using service account token for csrf signing
+2019/06/25 10:09:31 Successful initial request to the apiserver, version: v1.15.0
+2019/06/25 10:09:31 Generating JWE encryption key
+2019/06/25 10:09:31 New synchronizer has been registered: kubernetes-dashboard-key-holder-kube-system. Starting
+2019/06/25 10:09:31 Starting secret synchronizer for kubernetes-dashboard-key-holder in namespace kube-system
+2019/06/25 10:09:31 Storing encryption key in a secret
+2019/06/25 10:09:31 Creating in-cluster Heapster client
+2019/06/25 10:09:31 Auto-generating certificates
+2019/06/25 10:09:31 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:09:31 Successfully created certificates
+2019/06/25 10:09:31 Serving securely on HTTPS port: 8443
+2019/06/25 10:10:01 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:10:30 Getting application global configuration
+2019/06/25 10:10:30 Application configuration {"serverTime":1561457430297}
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Incoming HTTP/2.0 GET /api/v1/settings/global request from 192.168.0.1:40652: {}
+2019/06/25 10:10:31 MSG_LOGIN_UNAUTHORIZED_ERROR
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Outcoming response to 192.168.0.1:40652 with 401 status code
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Incoming HTTP/2.0 GET /api/v1/systembanner request from 192.168.0.1:40652: {}
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Outcoming response to 192.168.0.1:40652 with 200 status code
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Incoming HTTP/2.0 GET /api/v1/login/status request from 192.168.0.1:40652: {}
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Outcoming response to 192.168.0.1:40652 with 200 status code
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Incoming HTTP/2.0 GET /api/v1/rbac/status request from 192.168.0.1:40652: {}
+2019/06/25 10:10:31 MSG_LOGIN_UNAUTHORIZED_ERROR
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Outcoming response to 192.168.0.1:40652 with 401 status code
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Incoming HTTP/2.0 GET /api/v1/login/status request from 192.168.0.1:40652: {}
+2019/06/25 10:10:31 [2019-06-25T10:10:31Z] Outcoming response to 192.168.0.1:40652 with 200 status code
+2019/06/25 10:10:31 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:10:32 [2019-06-25T10:10:32Z] Incoming HTTP/2.0 GET /api/v1/login/skippable request from 192.168.0.1:40652: {}
+2019/06/25 10:10:32 [2019-06-25T10:10:32Z] Outcoming response to 192.168.0.1:40652 with 200 status code
+2019/06/25 10:10:32 [2019-06-25T10:10:32Z] Incoming HTTP/2.0 GET /api/v1/login/modes request from 192.168.0.1:40652: {}
+2019/06/25 10:10:32 [2019-06-25T10:10:32Z] Outcoming response to 192.168.0.1:40652 with 200 status code
+2019/06/25 10:11:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:11:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:12:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:12:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:13:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:13:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:14:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:14:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:15:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:15:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:16:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:16:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:17:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:17:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:18:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:18:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:19:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:19:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:20:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:20:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:21:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:21:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:22:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:22:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:23:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:23:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:24:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:24:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:25:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:25:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:26:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:26:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:27:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:27:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:28:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:28:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:29:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:29:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:30:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:30:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:31:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:31:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:32:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:32:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:33:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:33:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:34:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:34:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:35:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:35:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:36:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:36:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:37:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:37:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:38:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:38:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:39:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:39:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:40:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:40:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:41:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:41:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:42:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:42:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:43:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:43:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:44:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:44:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:45:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:45:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:46:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:46:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:47:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:47:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:48:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:48:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:49:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:49:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:50:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:50:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:51:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:51:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:52:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:52:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:53:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:53:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:54:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:54:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:55:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:55:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:56:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:56:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:57:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:57:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:58:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:58:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:59:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 10:59:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:00:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:00:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:01:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:01:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:02:02 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:02:32 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:03:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:03:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:04:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:04:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:05:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:05:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:06:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:06:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:07:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:07:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:08:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:08:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:09:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:09:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:10:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:10:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:11:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:11:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:12:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:12:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:13:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:13:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:14:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:14:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:15:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:15:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:16:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:16:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:17:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:17:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:18:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:18:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:19:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:19:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:20:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:20:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:21:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:21:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:22:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:22:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:23:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:23:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:24:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:24:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:25:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:25:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:26:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:26:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:27:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:27:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:28:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:28:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:29:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:29:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:30:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:30:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:31:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:31:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:32:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:32:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:33:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:33:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:34:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:34:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:35:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:35:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:36:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:36:33 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:37:03 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:44:11 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:44:41 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:45:11 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:45:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:46:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:46:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:47:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:47:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:48:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:48:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:49:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:49:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:50:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:50:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:51:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:51:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:52:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:52:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:53:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:53:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:54:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:54:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:55:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:55:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:56:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:56:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:57:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:57:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:58:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:58:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:59:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 11:59:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 12:00:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 12:00:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 12:01:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 12:01:42 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.
+2019/06/25 12:02:12 Metric client health check failed: the server could not find the requested resource (get services heapster). Retrying in 30 seconds.

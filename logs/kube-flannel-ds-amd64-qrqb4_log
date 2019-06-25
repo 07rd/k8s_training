@@ -1,0 +1,14 @@
+I0625 10:07:11.438730       1 main.go:514] Determining IP address of default interface
+I0625 10:07:11.440001       1 main.go:527] Using interface with name enp0s3 and address 10.0.2.15
+I0625 10:07:11.440283       1 main.go:544] Defaulting external address to interface address (10.0.2.15)
+I0625 10:07:11.548455       1 kube.go:126] Waiting 10m0s for node controller to sync
+I0625 10:07:11.548513       1 kube.go:309] Starting kube subnet manager
+I0625 10:07:12.551792       1 kube.go:133] Node controller sync successful
+I0625 10:07:12.551872       1 main.go:244] Created subnet manager: Kubernetes Subnet Manager - master-node
+I0625 10:07:12.551887       1 main.go:247] Installing signal handlers
+I0625 10:07:12.552624       1 main.go:386] Found network config - Backend type: vxlan
+I0625 10:07:12.552736       1 vxlan.go:120] VXLAN config: VNI=1 Port=0 GBP=false DirectRouting=false
+I0625 10:07:12.735247       1 main.go:317] Wrote subnet file to /run/flannel/subnet.env
+I0625 10:07:12.735276       1 main.go:321] Running backend.
+I0625 10:07:12.735292       1 main.go:339] Waiting for all goroutines to exit
+I0625 10:07:12.735409       1 vxlan_network.go:60] watching for new subnet leases
